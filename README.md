@@ -13,7 +13,7 @@ java -version
 #install hadoop
 mkdir -p ~/program
 cd ~/program 
-wget http://apache.mirrors.spacedump.net/hadoop/common/stable/hadoop-2.3.7.tar.gz
-tar xvf hadoop-2.3.7.tar.gz --gzip
-rm hadoop-2.3.7.tar.gz
+wget http://apache.mirrors.spacedump.net/hadoop/common/stable/hadoop-2.7.3.tar.gz
+tar xvf hadoop-2.7.3.tar.gz --gzip
+rm hadoop-2.7.3.tar.gz
 ```
