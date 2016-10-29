@@ -16,4 +16,8 @@ cd ~/program
 wget http://apache.mirrors.spacedump.net/hadoop/common/stable/hadoop-2.7.3.tar.gz
 tar xvf hadoop-2.7.3.tar.gz --gzip
 rm hadoop-2.7.3.tar.gz
+
+#sync ~/.bash
+source ~/.bash
+
 ```
