@@ -20,4 +20,10 @@ rm hadoop-2.7.3.tar.gz
 #sync ~/.bash
 source ~/.bash
 
+#config hostname
+# step: edit hosts in repo
+# update repo
+cp hosts /etc/hosts
+# change hostname
+sudo hostname awsNN
 ```
