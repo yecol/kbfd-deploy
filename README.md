@@ -26,4 +26,11 @@ source ~/.bash
 cp hosts /etc/hosts
 # change hostname
 sudo hostname awsNN
+
+#config ssh
+# local
+./local-upload.sh aws.pem "~/.ssh/aws.pem"
+./local-upload.sh config "~/.ssh/config"
+# cluster
+chmod 400 ~/.ssh/aws.pem
 ```
