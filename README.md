@@ -33,4 +33,13 @@ sudo hostname awsNN
 ./local-upload.sh config "~/.ssh/config"
 # cluster
 chmod 400 ~/.ssh/aws.pem
+
+#hadoop deploy config
+# aws01
+vim $HADOOP_HOME/etc/hadoop/slaves
+# deploy config
+$HADOOP_HOME/bin/hadoop deployConf
+# start hadoop
+$HADOOP_HOME/sbin/stop_all.sh
+$HADOOP_HOME/sbin/start_all.sh
 ```
