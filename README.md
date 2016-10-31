@@ -43,3 +43,6 @@ $HADOOP_HOME/bin/hadoop deployConf
 $HADOOP_HOME/sbin/stop_all.sh
 $HADOOP_HOME/sbin/start_all.sh
 ```
+
+
+54.174.33.55
