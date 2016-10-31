@@ -45,4 +45,5 @@ $HADOOP_HOME/sbin/start_all.sh
 ```
 
 
-54.174.33.55
+DFS-status http://54.174.33.55:50070/dfshealth.jsp    
+Hadoop-console http://54.174.33.55:8088/
