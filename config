@@ -1,0 +1,22 @@
+# Global config
+Host *
+    ServerAliveInterval 300
+    StrictHostKeyChecking no
+    User ubuntu
+    IdentityFile ~/.ssh/aws.pem
+Host aws01
+    HostName 54.174.33.55
+Host aws02
+    HostName 54.87.144.87
+Host aws03
+    HostName 52.201.236.38
+Host aws04
+    HostName 54.204.227.70
+Host aws05
+    HostName 52.90.54.121
+Host aws06
+    HostName 54.161.30.190
+Host aws07
+    HostName 52.23.161.212
+Host aws08
+    HostName 54.164.2.132
