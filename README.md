@@ -13,9 +13,9 @@ java -version
 #install hadoop
 mkdir -p ~/program
 cd ~/program 
-wget http://apache.mirrors.spacedump.net/hadoop/common/stable/hadoop-2.7.3.tar.gz
-tar xvf hadoop-2.7.3.tar.gz --gzip
-rm hadoop-2.7.3.tar.gz
+wget https://archive.apache.org/dist/hadoop/core/hadoop-2.2.0/hadoop-2.2.0.tar.gz
+tar xvf hadoop-2.2.0.tar.gz --gzip
+rm hadoop-2.2.0.tar.gz
 
 #sync ~/.bash
 source ~/.bash
@@ -43,3 +43,7 @@ $HADOOP_HOME/bin/hadoop deployConf
 $HADOOP_HOME/sbin/stop_all.sh
 $HADOOP_HOME/sbin/start_all.sh
 ```
+
+
+DFS-status http://54.174.33.55:50070/dfshealth.jsp    
+Hadoop-console http://54.174.33.55:8088/
