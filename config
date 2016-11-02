@@ -3,20 +3,22 @@ Host *
     ServerAliveInterval 300
     StrictHostKeyChecking no
     User ubuntu
-    IdentityFile ~/.ssh/aws.pem
+    IdentityFile ~/.ssh/aws-ohio.pem
 Host aws01
-    HostName 54.174.33.55
+    HostName 52.15.95.6
 Host aws02
-    HostName 54.87.144.87
+    HostName 52.15.120.2
 Host aws03
-    HostName 52.201.236.38
+    HostName 52.15.146.123
 Host aws04
-    HostName 54.204.227.70
+    HostName 52.15.147.48
 Host aws05
-    HostName 52.90.54.121
+    HostName 52.15.147.153
 Host aws06
-    HostName 54.161.30.190
+    HostName 52.15.147.97
 Host aws07
-    HostName 52.23.161.212
+    HostName 52.15.52.41
 Host aws08
-    HostName 54.164.2.132
+    HostName 52.15.144.245
+Host aws09
+    HostName 52.15.145.123
