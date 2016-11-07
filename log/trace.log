@@ -1,0 +1,5 @@
+[DEBUG] 2016-11-07 16:28:48.975 [main] ParDisWorker-499 - Connected to Sc: localhost
+[DEBUG] 2016-11-07 16:28:48.976 [main] ParDisWorker-500 - PARAM_CONFIG_FILE = ./config-sample.properties
+[DEBUG] 2016-11-07 16:28:48.976 [main] ParDisWorker-501 - PARAM_N = 4
+[DEBUG] 2016-11-07 16:28:48.977 [main] ParDisWorker-502 - PARAM_RUN_MODE = 2
+[DEBUG] 2016-11-07 16:28:48.978 [main] ParDisWorker-503 - Processing ParDis graph = OTHER
