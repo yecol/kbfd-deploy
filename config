@@ -22,3 +22,27 @@ Host aws08
     HostName 52.15.144.245
 Host aws09
     HostName 52.15.145.123
+Host aws10
+    HostName 52.15.100.253
+Host aws11
+    HostName 52.15.103.97
+Host aws12
+    HostName 52.15.114.245
+Host aws13
+    HostName 52.15.133.181
+Host aws14
+    HostName 52.15.84.161
+Host aws15
+    HostName 52.15.133.48
+Host aws16
+    HostName 52.15.125.181
+Host aws17
+    HostName 52.15.136.98
+Host aws18
+    HostName 52.15.137.112
+Host aws19
+    HostName 52.15.97.139
+Host aws20
+    HostName 52.15.53.255
+Host aws21
+    HostName 52.15.100.124
