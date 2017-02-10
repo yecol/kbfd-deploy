@@ -1,48 +1,47 @@
-# Global config
 Host *
-    ServerAliveInterval 300
-    StrictHostKeyChecking no
+    ServerAliveInterval 300s
+Host aws*
     User ubuntu
-    IdentityFile ~/.ssh/aws-ohio.pem
+    IdentityFile ~/.ssh/aws-ireland.pem
 Host aws01
-    HostName 52.15.95.6
+    Hostname 54.229.32.191
 Host aws02
-    HostName 52.15.120.2
+    Hostname 54.171.124.4
 Host aws03
-    HostName 52.15.146.123
+    Hostname 54.229.180.180
 Host aws04
-    HostName 52.15.147.48
+    Hostname 54.194.192.240
 Host aws05
-    HostName 52.15.147.153
+    Hostname 54.229.48.62
 Host aws06
-    HostName 52.15.147.97
+    Hostname 54.154.79.99
 Host aws07
-    HostName 52.15.52.41
+    Hostname 54.194.110.165
 Host aws08
-    HostName 52.15.144.245
+    Hostname 54.154.249.73
 Host aws09
-    HostName 52.15.145.123
+    Hostname 54.194.132.152
 Host aws10
-    HostName 52.15.100.253
+    Hostname 54.154.210.113
 Host aws11
-    HostName 52.15.103.97
+    Hostname 54.171.170.121
 Host aws12
-    HostName 52.15.114.245
+    Hostname 54.194.162.230
 Host aws13
-    HostName 52.15.133.181
+    Hostname 54.229.28.126
 Host aws14
-    HostName 52.15.84.161
+    Hostname 54.171.131.166
 Host aws15
-    HostName 52.15.133.48
+    Hostname 54.229.100.36
 Host aws16
-    HostName 52.15.125.181
+    Hostname 54.171.182.81
 Host aws17
-    HostName 52.15.136.98
+    Hostname 54.171.128.39
 Host aws18
-    HostName 52.15.137.112
+    Hostname 54.171.219.179
 Host aws19
-    HostName 52.15.97.139
+    Hostname 54.171.200.49
 Host aws20
-    HostName 52.15.53.255
+    Hostname 54.229.49.168
 Host aws21
-    HostName 52.15.100.124
+    Hostname 54.194.209.83  
