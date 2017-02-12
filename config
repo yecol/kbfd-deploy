@@ -4,15 +4,15 @@ Host aws*
     User ubuntu
     IdentityFile ~/.ssh/aws-ireland.pem
 Host aws01
-    Hostname 54.229.32.191
+    Hostname 54.154.87.193
 Host aws02
-    Hostname 54.171.124.4
+    Hostname 54.194.16.202
 Host aws03
-    Hostname 54.229.180.180
+    Hostname 54.194.25.77
 Host aws04
-    Hostname 54.194.192.240
+    Hostname 54.171.113.116
 Host aws05
-    Hostname 54.229.48.62
+    Hostname 54.194.56.186
 Host aws06
     Hostname 54.154.79.99
 Host aws07
