@@ -1,0 +1,2410 @@
+##############
+%GID
+PID-1-351-188-436-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1Person	ANY
+e	0	award	1
+e	0	influencedBy	2
+
+##############
+%GID
+PID-1-351-395-495-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1Person	ANY
+e	0	award	1
+e	0	careerStation	2
+
+##############
+%GID
+PID-1-351-246-452-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1Producer	ANY
+e	0	award	1
+e	0	associatedMusicalArtist	2
+
+##############
+%GID
+PID-1-351-387-492-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1Occupation	ANY
+e	0	award	1
+e	0	occupation	2
+
+##############
+%GID
+PID-1-351-375-489-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1Country	ANY
+e	0	award	1
+e	0	deathPlace	2
+
+##############
+%GID
+PID-1-370-300-624-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	engine	2
+
+##############
+%GID
+PID-1-370-300-623-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	engine	2
+
+##############
+%GID
+PID-1-370-31-511-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Language	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	languageFamily	2
+
+##############
+%GID
+PID-1-370-31-512-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Language	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	languageFamily	2
+
+##############
+%GID
+PID-1-370-107-550-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Writer	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	creator	2
+
+##############
+%GID
+PID-1-370-66-536-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Country	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	spokenIn	2
+
+##############
+%GID
+PID-1-370-238-605-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	Home_video_game_console	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	computingPlatform	2
+
+##############
+%GID
+PID-1-370-238-606-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	Home_video_game_console	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	computingPlatform	2
+
+##############
+%GID
+PID-1-370-360-640-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	division	2
+
+##############
+%GID
+PID-1-370-66-535-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Country	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	spokenIn	2
+
+##############
+%GID
+PID-1-370-135-560-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	relatedMeanOfTransportation	2
+
+##############
+%GID
+PID-1-370-71-537-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Occupation	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	instrument	2
+
+##############
+%GID
+PID-1-370-107-549-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Writer	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	creator	2
+
+##############
+%GID
+PID-1-370-123-553-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	bandMember	2
+
+##############
+%GID
+PID-1-351-297-463-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1Country	ANY
+e	0	award	1
+e	0	religion	2
+
+##############
+%GID
+PID-1-370-71-538-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Occupation	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	instrument	2
+
+##############
+%GID
+PID-1-370-123-554-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	bandMember	2
+
+##############
+%GID
+PID-1-351-379-490-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1Place	ANY
+e	0	award	1
+e	0	position	2
+
+##############
+%GID
+PID-1-370-135-559-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	relatedMeanOfTransportation	2
+
+##############
+%GID
+PID-1-370-226-600-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	format	2
+
+##############
+%GID
+PID-1-351-65-409-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1Producer	ANY
+e	0	award	1
+e	0	recordLabel	2
+
+##############
+%GID
+PID-1-351-81-413-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	Private_school	ANY
+e	0	award	1
+e	0	almaMater	2
+
+##############
+%GID
+PID-1-370-230-602-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Occupation	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	class	2
+
+##############
+%GID
+PID-1-370-230-601-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Occupation	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	class	2
+
+##############
+%GID
+PID-1-351-371-486-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1Country	ANY
+e	0	award	1
+e	0	nationality	2
+
+##############
+%GID
+PID-1-370-83-543-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	operatingSystem	2
+
+##############
+%GID
+PID-1-370-83-544-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	operatingSystem	2
+
+##############
+%GID
+PID-1-351-335-475-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1Occupation	ANY
+e	0	award	1
+e	0	genre	2
+
+##############
+%GID
+PID-1-370-392-660-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	family	2
+
+##############
+%GID
+PID-1-351-242-450-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1Person	ANY
+e	0	award	1
+e	0	parent	2
+
+##############
+%GID
+PID-1-370-104-547-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Producer	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	associatedBand	2
+
+##############
+%GID
+PID-1-351-363-484-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	City	ANY
+e	0	award	1
+e	0	birthPlace	2
+
+##############
+%GID
+PID-1-370-104-548-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Producer	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	associatedBand	2
+
+##############
+%GID
+PID-1-370-35-515-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Occupation	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	rdf-schema#seeAlso	2
+
+##############
+%GID
+PID-1-370-46-521-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Person	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	associatedBand	2
+
+##############
+%GID
+PID-1-370-46-522-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Person	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	associatedBand	2
+
+##############
+%GID
+PID-1-370-35-516-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Occupation	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	rdf-schema#seeAlso	2
+
+##############
+%GID
+PID-1-370-171-580-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	recordLabel	2
+
+##############
+%GID
+PID-1-370-171-579-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	recordLabel	2
+
+##############
+%GID
+PID-1-370-195-586-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Place	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	recordLabel	2
+
+##############
+%GID
+PID-1-370-392-659-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	family	2
+
+##############
+%GID
+PID-1-370-7-499-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	position	2
+
+##############
+%GID
+PID-1-370-195-585-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Place	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	recordLabel	2
+
+##############
+%GID
+PID-1-351-324-470-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1Occupation	ANY
+e	0	award	1
+e	0	party	2
+
+##############
+%GID
+PID-1-370-364-641-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	genre	2
+
+##############
+%GID
+PID-1-370-364-642-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	genre	2
+
+##############
+%GID
+PID-1-370-208-591-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Country	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	sourceCountry	2
+
+##############
+%GID
+PID-1-370-347-638-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	homepage	2
+
+##############
+%GID
+PID-1-370-347-637-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	homepage	2
+
+##############
+%GID
+PID-1-351-176-430-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1Occupation	ANY
+e	0	award	1
+e	0	position	2
+
+##############
+%GID
+PID-1-370-208-592-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Country	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	sourceCountry	2
+
+##############
+%GID
+PID-1-370-63-533-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Producer	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	recordLabel	2
+
+##############
+%GID
+PID-1-370-63-534-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Producer	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	recordLabel	2
+
+##############
+%GID
+PID-1-351-85-415-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	List_of_municipalities_of_the_Netherlands	ANY
+e	0	award	1
+e	0	birthPlace	2
+
+##############
+%GID
+PID-1-370-311-629-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	currentMember	2
+
+##############
+%GID
+PID-1-370-386-652-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	order	2
+
+##############
+%GID
+PID-1-370-156-570-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	isPartOfMilitaryConflict	2
+
+##############
+%GID
+PID-1-351-331-472-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1Place	ANY
+e	0	award	1
+e	0	deathPlace	2
+
+##############
+%GID
+PID-1-370-386-651-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	order	2
+
+##############
+%GID
+PID-1-370-27-507-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	parent	2
+
+##############
+%GID
+PID-1-370-27-508-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	parent	2
+
+##############
+%GID
+PID-1-370-144-561-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Place	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	mountainRange	2
+
+##############
+%GID
+PID-1-370-144-562-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Place	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	mountainRange	2
+
+##############
+%GID
+PID-1-351-245-451-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1Producer	ANY
+e	0	award	1
+e	0	associatedBand	2
+
+##############
+%GID
+PID-1-370-311-630-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	currentMember	2
+
+##############
+%GID
+PID-1-370-382-647-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Person	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	currentMember	2
+
+##############
+%GID
+PID-1-370-382-648-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Person	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	currentMember	2
+
+##############
+%GID
+PID-1-351-162-429-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1City	ANY
+e	0	award	1
+e	0	hometown	2
+
+##############
+%GID
+PID-1-351-239-449-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1Country	ANY
+e	0	award	1
+e	0	hometown	2
+
+##############
+%GID
+PID-1-351-374-488-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1City	ANY
+e	0	award	1
+e	0	deathPlace	2
+
+##############
+%GID
+PID-1-351-220-444-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1City	ANY
+e	0	award	1
+e	0	residence	2
+
+##############
+%GID
+PID-1-370-55-528-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	layout	2
+
+##############
+%GID
+PID-1-370-55-527-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	layout	2
+
+##############
+%GID
+PID-1-370-296-622-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Place	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	order	2
+
+##############
+%GID
+PID-1-370-296-621-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Place	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	order	2
+
+##############
+%GID
+PID-1-351-396-496-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1Team	ANY
+e	0	award	1
+e	0	team	2
+
+##############
+%GID
+PID-1-351-303-466-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1Occupation	ANY
+e	0	award	1
+e	0	field	2
+
+##############
+%GID
+PID-1-370-343-633-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Person	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	binomialAuthority	2
+
+##############
+%GID
+PID-1-370-202-590-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Person	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	coach	2
+
+##############
+%GID
+PID-1-370-343-634-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Person	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	binomialAuthority	2
+
+##############
+%GID
+PID-1-370-360-639-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	division	2
+
+##############
+%GID
+PID-1-351-102-418-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	Charter_city	ANY
+e	0	award	1
+e	0	birthPlace	2
+
+##############
+%GID
+PID-1-351-381-491-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1Place	ANY
+e	0	award	1
+e	0	birthPlace	2
+
+##############
+%GID
+PID-1-351-45-406-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	Administrative_divisions_of_New_York	ANY
+e	0	award	1
+e	0	deathPlace	2
+
+##############
+%GID
+PID-1-351-213-439-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1Occupation	ANY
+e	0	award	1
+e	0	profession	2
+
+##############
+%GID
+PID-1-370-73-540-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Place	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	place	2
+
+##############
+%GID
+PID-1-370-275-614-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	commander	2
+
+##############
+%GID
+PID-1-370-275-613-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	commander	2
+
+##############
+%GID
+PID-1-351-1-398-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1Country	ANY
+e	0	award	1
+e	0	battle	2
+
+##############
+%GID
+PID-1-351-353-481-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1Person	ANY
+e	0	award	1
+e	0	successor	2
+
+##############
+%GID
+PID-1-351-112-419-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	Metropolis	ANY
+e	0	award	1
+e	0	birthPlace	2
+
+##############
+%GID
+PID-1-370-73-539-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Place	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	place	2
+
+##############
+%GID
+PID-1-351-177-431-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1Place	ANY
+e	0	award	1
+e	0	almaMater	2
+
+##############
+%GID
+PID-1-370-133-558-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	publisher	2
+
+##############
+%GID
+PID-1-370-133-557-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	publisher	2
+
+##############
+%GID
+PID-1-370-305-626-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Person	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	commander	2
+
+##############
+%GID
+PID-1-370-305-625-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Person	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	commander	2
+
+##############
+%GID
+PID-1-351-207-438-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1Place	ANY
+e	0	award	1
+e	0	race	2
+
+##############
+%GID
+PID-1-370-202-589-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Person	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	coach	2
+
+##############
+%GID
+PID-1-351-13-401-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1Occupation	ANY
+e	0	award	1
+e	0	knownFor	2
+
+##############
+%GID
+PID-1-370-264-611-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Country	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	locatedInArea	2
+
+##############
+%GID
+PID-1-370-264-612-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Country	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	locatedInArea	2
+
+##############
+%GID
+PID-1-351-84-414-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1Writer	ANY
+e	0	award	1
+e	0	occupation	2
+
+##############
+%GID
+PID-1-351-67-410-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1Place	ANY
+e	0	award	1
+e	0	league	2
+
+##############
+%GID
+PID-1-351-218-443-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	Administrative_divisions_of_New_York	ANY
+e	0	award	1
+e	0	birthPlace	2
+
+##############
+%GID
+PID-1-370-376-646-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Occupation	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	order	2
+
+##############
+%GID
+PID-1-370-376-645-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Occupation	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	order	2
+
+##############
+%GID
+PID-1-351-151-424-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1Person	ANY
+e	0	award	1
+e	0	president	2
+
+##############
+%GID
+PID-1-370-330-632-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Occupation	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	genre	2
+
+##############
+%GID
+PID-1-351-24-403-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1Occupation	ANY
+e	0	award	1
+e	0	religion	2
+
+##############
+%GID
+PID-1-370-330-631-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Occupation	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	genre	2
+
+##############
+%GID
+PID-1-370-157-572-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Occupation	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	industry	2
+
+##############
+%GID
+PID-1-370-157-571-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Occupation	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	industry	2
+
+##############
+%GID
+PID-1-370-193-584-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Place	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	position	2
+
+##############
+%GID
+PID-1-351-302-465-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1Team	ANY
+e	0	award	1
+e	0	debutTeam	2
+
+##############
+%GID
+PID-1-351-87-416-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	List_of_cities_in_Ontario	ANY
+e	0	award	1
+e	0	birthPlace	2
+
+##############
+%GID
+PID-1-370-193-583-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Place	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	position	2
+
+##############
+%GID
+PID-1-370-145-563-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Country	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	place	2
+
+##############
+%GID
+PID-1-370-145-564-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Country	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	place	2
+
+##############
+%GID
+PID-1-351-201-437-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1Place	ANY
+e	0	award	1
+e	0	party	2
+
+##############
+%GID
+PID-1-351-310-467-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1Country	ANY
+e	0	award	1
+e	0	stateOfOrigin	2
+
+##############
+%GID
+PID-1-351-79-412-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	National_Space_Grant_College_and_Fellowship_Program	ANY
+e	0	award	1
+e	0	almaMater	2
+
+##############
+%GID
+PID-1-370-385-650-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	genus	2
+
+##############
+%GID
+PID-1-370-153-568-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	associatedBand	2
+
+##############
+%GID
+PID-1-370-153-567-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	associatedBand	2
+
+##############
+%GID
+PID-1-351-350-479-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1Team	ANY
+e	0	award	1
+e	0	managerClub	2
+
+##############
+%GID
+PID-1-370-21-506-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Person	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	successor	2
+
+##############
+%GID
+PID-1-351-314-468-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	Public_university	ANY
+e	0	award	1
+e	0	almaMater	2
+
+##############
+%GID
+PID-1-351-75-411-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1Person	ANY
+e	0	award	1
+e	0	child	2
+
+##############
+%GID
+PID-1-370-21-505-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Person	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	successor	2
+
+##############
+%GID
+PID-1-370-256-610-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Country	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	hometown	2
+
+##############
+%GID
+PID-1-370-309-627-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Country	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	nationality	2
+
+##############
+%GID
+PID-1-370-2-497-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	routeJunction	2
+
+##############
+%GID
+PID-1-370-309-628-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Country	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	nationality	2
+
+##############
+%GID
+PID-1-370-2-498-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	routeJunction	2
+
+##############
+%GID
+PID-1-370-256-609-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Country	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	hometown	2
+
+##############
+%GID
+PID-1-370-385-649-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	genus	2
+
+##############
+%GID
+PID-1-370-161-575-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1City	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	hometown	2
+
+##############
+%GID
+PID-1-370-161-576-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1City	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	hometown	2
+
+##############
+%GID
+PID-1-351-155-426-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1Place	ANY
+e	0	award	1
+e	0	team	2
+
+##############
+%GID
+PID-1-351-143-423-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	Army	ANY
+e	0	award	1
+e	0	militaryBranch	2
+
+##############
+%GID
+PID-1-370-7-500-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	position	2
+
+##############
+%GID
+PID-1-351-3-399-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	Metropolitan_borough	ANY
+e	0	award	1
+e	0	birthPlace	2
+
+##############
+%GID
+PID-1-370-197-587-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	predecessor	2
+
+##############
+%GID
+PID-1-370-284-617-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	computingPlatform	2
+
+##############
+%GID
+PID-1-370-284-618-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	computingPlatform	2
+
+##############
+%GID
+PID-1-370-370-644-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	rdf-schema#seeAlso	2
+
+##############
+%GID
+PID-1-370-390-655-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	class	2
+
+##############
+%GID
+PID-1-370-390-656-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	class	2
+
+##############
+%GID
+PID-1-370-197-588-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	predecessor	2
+
+##############
+%GID
+PID-1-351-154-425-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1Team	ANY
+e	0	award	1
+e	0	draftTeam	2
+
+##############
+%GID
+PID-1-370-76-541-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Occupation	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	party	2
+
+##############
+%GID
+PID-1-370-291-619-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Person	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	starring	2
+
+##############
+%GID
+PID-1-370-57-530-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Country	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	rdf-schema#seeAlso	2
+
+##############
+%GID
+PID-1-370-121-551-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Place	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	locatedInArea	2
+
+##############
+%GID
+PID-1-370-121-552-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Place	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	locatedInArea	2
+
+##############
+%GID
+PID-1-370-345-636-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	binomialAuthority	2
+
+##############
+%GID
+PID-1-351-346-478-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1Person	ANY
+e	0	award	1
+e	0	currentMember	2
+
+##############
+%GID
+PID-1-370-345-635-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	binomialAuthority	2
+
+##############
+%GID
+PID-1-370-76-542-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Occupation	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	party	2
+
+##############
+%GID
+PID-1-370-61-531-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	builder	2
+
+##############
+%GID
+PID-1-351-389-493-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1City	ANY
+e	0	award	1
+e	0	birthPlace	2
+
+##############
+%GID
+PID-1-370-61-532-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	builder	2
+
+##############
+%GID
+PID-1-370-388-653-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	phylum	2
+
+##############
+%GID
+PID-1-351-0-397-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	UNDEFINED	ANY
+e	0	award	1
+e	0	parent	2
+
+##############
+%GID
+PID-1-370-37-518-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	battle	2
+
+##############
+%GID
+PID-1-370-388-654-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	phylum	2
+
+##############
+%GID
+PID-1-351-217-442-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1Country	ANY
+e	0	award	1
+e	0	residence	2
+
+##############
+%GID
+PID-1-370-37-517-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	battle	2
+
+##############
+%GID
+PID-1-351-159-427-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1Person	ANY
+e	0	award	1
+e	0	manager	2
+
+##############
+%GID
+PID-1-351-393-494-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1Country	ANY
+e	0	award	1
+e	0	birthPlace	2
+
+##############
+%GID
+PID-1-351-341-476-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1Person	ANY
+e	0	award	1
+e	0	predecessor	2
+
+##############
+%GID
+PID-1-370-156-569-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	isPartOfMilitaryConflict	2
+
+##############
+%GID
+PID-1-351-292-462-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	City	ANY
+e	0	award	1
+e	0	deathPlace	2
+
+##############
+%GID
+PID-1-370-291-620-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Person	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	starring	2
+
+##############
+%GID
+PID-1-351-236-447-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1Person	ANY
+e	0	award	1
+e	0	associatedBand	2
+
+##############
+%GID
+PID-1-351-247-453-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1Occupation	ANY
+e	0	award	1
+e	0	battle	2
+
+##############
+%GID
+PID-1-370-10-503-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	subsequentWork	2
+
+##############
+%GID
+PID-1-370-10-504-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	subsequentWork	2
+
+##############
+%GID
+PID-1-351-237-448-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1Person	ANY
+e	0	award	1
+e	0	associatedMusicalArtist	2
+
+##############
+%GID
+PID-1-351-179-432-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1Producer	ANY
+e	0	award	1
+e	0	occupation	2
+
+##############
+%GID
+PID-1-370-8-501-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	previousWork	2
+
+##############
+%GID
+PID-1-370-29-509-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	leaderFunction	2
+
+##############
+%GID
+PID-1-370-8-502-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	previousWork	2
+
+##############
+%GID
+PID-1-351-142-422-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	Consolidated_city-county	ANY
+e	0	award	1
+e	0	birthPlace	2
+
+##############
+%GID
+PID-1-370-164-577-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	languageFamily	2
+
+##############
+%GID
+PID-1-370-164-578-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	languageFamily	2
+
+##############
+%GID
+PID-1-351-271-458-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	Private_university	ANY
+e	0	award	1
+e	0	almaMater	2
+
+##############
+%GID
+PID-1-351-25-404-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1Place	ANY
+e	0	award	1
+e	0	battle	2
+
+##############
+%GID
+PID-1-370-222-597-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Director	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	class	2
+
+##############
+%GID
+PID-1-370-222-598-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Director	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	class	2
+
+##############
+%GID
+PID-1-370-186-581-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	soundRecording	2
+
+##############
+%GID
+PID-1-370-186-582-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	soundRecording	2
+
+##############
+%GID
+PID-1-351-92-417-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	Town	ANY
+e	0	award	1
+e	0	birthPlace	2
+
+##############
+%GID
+PID-1-370-32-514-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1City	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	locatedInArea	2
+
+##############
+%GID
+PID-1-370-32-513-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1City	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	locatedInArea	2
+
+##############
+%GID
+PID-1-370-42-520-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Country	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	locationCountry	2
+
+##############
+%GID
+PID-1-351-185-435-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1Place	ANY
+e	0	award	1
+e	0	formerTeam	2
+
+##############
+%GID
+PID-1-351-233-446-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1Country	ANY
+e	0	award	1
+e	0	country	2
+
+##############
+%GID
+PID-1-370-124-555-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	developer	2
+
+##############
+%GID
+PID-1-370-255-607-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Place	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	county	2
+
+##############
+%GID
+PID-1-370-124-556-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	developer	2
+
+##############
+%GID
+PID-1-370-255-608-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Place	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	county	2
+
+##############
+%GID
+PID-1-370-152-566-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	associatedMusicalArtist	2
+
+##############
+%GID
+PID-1-370-57-529-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Country	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	rdf-schema#seeAlso	2
+
+##############
+%GID
+PID-1-370-152-565-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	associatedMusicalArtist	2
+
+##############
+%GID
+PID-1-370-29-510-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	leaderFunction	2
+
+##############
+%GID
+PID-1-370-158-573-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	bodyStyle	2
+
+##############
+%GID
+PID-1-351-356-482-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1Team	ANY
+e	0	award	1
+e	0	formerTeam	2
+
+##############
+%GID
+PID-1-370-158-574-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	bodyStyle	2
+
+##############
+%GID
+PID-1-351-227-445-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1Place	ANY
+e	0	award	1
+e	0	recordLabel	2
+
+##############
+%GID
+PID-1-351-48-407-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1Person	ANY
+e	0	award	1
+e	0	relative	2
+
+##############
+%GID
+PID-1-351-160-428-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1Person	ANY
+e	0	award	1
+e	0	primeMinister	2
+
+##############
+%GID
+PID-1-351-344-477-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1Person	ANY
+e	0	award	1
+e	0	termPeriod	2
+
+##############
+%GID
+PID-1-370-103-546-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Producer	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	associatedMusicalArtist	2
+
+##############
+%GID
+PID-1-370-103-545-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Producer	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	associatedMusicalArtist	2
+
+##############
+%GID
+PID-1-370-211-596-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	successor	2
+
+##############
+%GID
+PID-1-351-54-408-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1Publication	ANY
+e	0	award	1
+e	0	nationality	2
+
+##############
+%GID
+PID-1-370-42-519-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Country	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	locationCountry	2
+
+##############
+%GID
+PID-1-370-211-595-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	successor	2
+
+##############
+%GID
+PID-1-370-53-526-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	series	2
+
+##############
+%GID
+PID-1-370-277-616-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	owl#differentFrom	2
+
+##############
+%GID
+PID-1-370-53-525-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	series	2
+
+##############
+%GID
+PID-1-370-277-615-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	owl#differentFrom	2
+
+##############
+%GID
+PID-1-370-47-523-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Person	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	associatedMusicalArtist	2
+
+##############
+%GID
+PID-1-370-47-524-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Person	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	associatedMusicalArtist	2
+
+##############
+%GID
+PID-1-370-209-594-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	termPeriod	2
+
+##############
+%GID
+PID-1-370-226-599-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	format	2
+
+##############
+%GID
+PID-1-370-209-593-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	termPeriod	2
+
+##############
+%GID
+PID-1-351-43-405-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	City	ANY
+e	0	award	1
+e	0	residence	2
+
+##############
+%GID
+PID-1-351-265-457-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1Occupation	ANY
+e	0	award	1
+e	0	instrument	2
+
+##############
+%GID
+PID-1-351-259-455-null
+%P1
+v	0	1Person	ANY
+v	1	1Award	ANY
+v	2	1Person	ANY
+e	0	award	1
+e	0	spouse	2
+
+##############
+%GID
+PID-1-370-234-603-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Award	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	award	2
+
+##############
+%GID
+PID-1-370-234-604-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	1Award	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	award	2
+
+##############
+%GID
+PID-1-370-391-658-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	1	kingdom	2
+
+##############
+%GID
+PID-1-370-391-657-null
+%P1
+v	0	UNDEFINED	ANY
+v	1	UNDEFINED	ANY
+v	2	UNDEFINED	ANY
+e	0	rdf-schema#seeAlso	1
+e	0	kingdom	2
+
